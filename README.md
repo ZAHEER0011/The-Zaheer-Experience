@@ -1,4 +1,4 @@
-# Zaheer's Online Presence
+# The Zaheer Experience
 This repository contains a fully responsive personal profile webpage designed to showcase my social media platforms, portfolio, and bio. The page features:
 
    - My Profiles: Displays links to my social media accounts.
